@@ -1,0 +1,30 @@
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "2Rn-pF-XYa"; */
+"2Rn-pF-XYa.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "2Wg-e3-zsp"; */
+"2Wg-e3-zsp.normalTitle" = "Login";
+
+/* Class = "IBUITextField"; text = "Empire Login"; ObjectID = "9ie-c9-b7H"; */
+"9ie-c9-b7H.text" = "Empire Login";
+
+/* Class = "IBUITabBarItem"; title = "Mailbox"; ObjectID = "BW1-sR-hYw"; */
+"BW1-sR-hYw.title" = "Mailbox";
+
+/* Class = "IBUITextField"; text = "https://us1.lacunaexpanse.com"; ObjectID = "DJa-D2-mgI"; */
+"DJa-D2-mgI.text" = "https://us1.lacunaexpanse.com";
+
+/* Class = "IBUITabBarItem"; title = "Empire"; ObjectID = "JfP-2f-9XI"; */
+"JfP-2f-9XI.title" = "Empire";
+
+/* Class = "IBUITabBarItem"; title = "Login"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Login";
+
+/* Class = "IBUITabBarItem"; title = "My Worlds"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "My Worlds";
+
+/* Class = "IBUILabel"; text = "Server"; ObjectID = "mgG-Z6-glN"; */
+"mgG-Z6-glN.text" = "Server";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "vbi-99-8K7"; */
+"vbi-99-8K7.text" = "Name";
